@@ -1,5 +1,5 @@
 class Solution {
-     public static boolean searchMatrix(int[][] matrix, int target) {
+   public static boolean searchMatrix(int[][] matrix, int target) {
         int len = matrix.length;
         for(int i = 0 ; i < len ; i++) {
             int low = 0;
