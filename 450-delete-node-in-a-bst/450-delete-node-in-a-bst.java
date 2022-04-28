@@ -17,7 +17,7 @@ class Solution {
     
     static int max(TreeNode root){
         if(root.right != null){
-            return max(root.right);
+           return max(root.right);
         }
         else{
             return root.val;
