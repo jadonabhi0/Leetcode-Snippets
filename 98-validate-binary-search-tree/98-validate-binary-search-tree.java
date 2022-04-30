@@ -13,11 +13,12 @@
  *     }
  * }
  */
- public class BstPair{
-        boolean isbst = true;
-        long min = Long.MAX_VALUE;
-        long max = Long.MIN_VALUE;
-}
+
+//  public class BstPair{
+//         boolean isbst = true;
+//         long min = Long.MAX_VALUE;
+//         long max = Long.MIN_VALUE;
+// }
 
 class Solution {
 //     public static long max(TreeNode root){
@@ -34,6 +35,16 @@ class Solution {
     
    
     
+    private boolean checkBst(TreeNode root, long start, long end){
+        if (root == null) return true;
+        if (root.val > start && root.val < end){
+            return checkBst(root.left,start,root.val) && checkBst(root.right,root.val,end);
+
+        }
+        return false;
+    }
+    
+    
     public boolean isValidBST(TreeNode root) {
         // if(root == null) return true;
         // boolean left = isValidBST(root.left);
@@ -43,25 +54,29 @@ class Solution {
         // if(left && right &&(max < root.val && min > root.val)) return true;
         // return false;
         
-        return valid(root).isbst;
+        // return valid(root).isbst;
+        
+         if (root == null) return true;
+        return checkBst(root,Long.MIN_VALUE,Long.MAX_VALUE);
+        
         
     }
     
     
-     public BstPair valid(TreeNode node){
-        if(node == null) return new BstPair();
-        BstPair lbstp = valid(node.left);
-        BstPair rbstp = valid(node.right);
-        BstPair sbstp = new BstPair();
-        sbstp.min = Math.min(lbstp.min,Math.min(rbstp.min , node.val));
-        sbstp.max = Math.max(lbstp.max, Math.max(rbstp.max, node.val));
-        if(lbstp.isbst && rbstp.isbst && (lbstp.max < node.val && rbstp.min > node.val)){
-            sbstp.isbst = true;
-            return sbstp;
-        }
-        sbstp.isbst = false;
-        return sbstp;
-    }
+     // public BstPair valid(TreeNode node){
+     //    if(node == null) return new BstPair();
+     //    BstPair lbstp = valid(node.left);
+     //    BstPair rbstp = valid(node.right);
+     //    BstPair sbstp = new BstPair();
+     //    sbstp.min = Math.min(lbstp.min,Math.min(rbstp.min , node.val));
+     //    sbstp.max = Math.max(lbstp.max, Math.max(rbstp.max, node.val));
+     //    if(lbstp.isbst && rbstp.isbst && (lbstp.max < node.val && rbstp.min > node.val)){
+     //        sbstp.isbst = true;
+     //        return sbstp;
+     //    }
+     //    sbstp.isbst = false;
+     //    return sbstp;
+    // }
     
     
 }
