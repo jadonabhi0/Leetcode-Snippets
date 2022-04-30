@@ -24,10 +24,10 @@ class Solution {
         }
         
         int a = minDepth(root.left);
-        a = a > 0 ? a : Integer.MAX_VALUE;
+        // a = a > 0 ? a : Integer.MAX_VALUE;
         int b = minDepth(root.right);
-        b = b > 0 ? b : Integer.MAX_VALUE;
-        return Math.min(a,b)+1;
+        // b = b > 0 ? b : Integer.MAX_VALUE;
+        return (a == 0 || b == 0) ? a+b+1 : Math.min(a,b)+1;
         
     }
 }
