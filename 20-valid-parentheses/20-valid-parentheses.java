@@ -1,27 +1,25 @@
 class Solution {
-public boolean isValid(String s) {
+    public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
-
-        for (int i = 0; i < s.length(); i++) {
-            Character currentChar = s.charAt(i);
-
-            //check if current char is open parentheses
-            if (currentChar == '(' || currentChar == '[' || currentChar == '{') {
-                //push it into stack
-                st.push(currentChar);
-            } else {
-                if (st.isEmpty()) return false;
-
-                if (st.peek() == '(' && currentChar == ')') st.pop();
-
-                else if (st.peek() == '[' && currentChar == ']') st.pop();
-
-                else if (st.peek() == '{' && currentChar == '}') st.pop();
-
-                else return false;
+        
+        for(int i = 0 ; i < s.length() ;i++){
+            char ch = s.charAt(i);
+            
+            if(ch =='{' || ch == '[' || ch == '('){
+                st.push(ch);
+            }else{
+                if(!st.isEmpty()){
+                    if(st.peek() == '{' && ch == '}') st.pop();
+                    else if(st.peek() == '[' && ch == ']') st.pop();
+                    else if(st.peek() == '(' && ch == ')') st.pop();
+                    else return false;
+                }else{
+                    return false;
+                }
             }
+            
         }
-        //if stack is empty return true
+        
         return st.isEmpty();
     }
 }
