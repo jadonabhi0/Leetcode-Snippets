@@ -1,9 +1,8 @@
 class Solution {
     
      public static List<List<Integer>> generateSubset(int[] array, int pos, List<Integer> list, List<List<Integer>> ans){
-//        if (pos == array.length){
-//            return ans;
-//        }
+         
+       
         ans.add(new LinkedList<>(list));
 
         for (int i = pos ; i < array.length ; i++){
