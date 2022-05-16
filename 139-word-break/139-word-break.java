@@ -1,4 +1,5 @@
 class Solution {
+    
     public boolean wordBreak(String s, List<String> wordDict) {
         
         Set<String> set = new HashSet<>(wordDict);
@@ -16,5 +17,7 @@ class Solution {
         }
         
         return dp[s.length()];
+  
+    
     }
 }
