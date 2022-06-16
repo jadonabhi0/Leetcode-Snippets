@@ -10,6 +10,7 @@ class Solution {
                     if (sum>=target){
                         temp = i-low+1;
                         res = Math.min(res,temp);
+                        break;
 
                     }
                 }
