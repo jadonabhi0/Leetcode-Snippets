@@ -17,6 +17,10 @@ class Solution {
     
     public static int camera = 0;
     
+    // -1 --> camera need hai;
+    //  1 --> already covered hai;
+    //  0 --> node ke pass camera hai
+    
     public int helper(TreeNode root){
         
         if(root == null) return 1;
@@ -33,7 +37,7 @@ class Solution {
             return 1;
         }
         
-        return -1;
+        return -1; // cover hai already
         
     }
     
