@@ -15,29 +15,44 @@
  */
 class Solution {
     
-    static class BalancePair{
-        int ht = -1;
-        boolean isbal = true;
-    }
+    // static class BalancePair{
+    //     int ht = -1;
+    //     boolean isbal = true;
+    // }
     
-    
-    public BalancePair helper(TreeNode root){
-        if(root == null) return new BalancePair();
+    public static boolean isbal = true;
+    public int helper(TreeNode root){
+//         if(root == null) return new BalancePair();
         
-        BalancePair lh = helper(root.left);
-        BalancePair rh = helper(root.right);
-        BalancePair sb = new BalancePair();
-        sb.ht = Math.max(lh.ht,rh.ht)+1;
-        boolean gap = Math.abs(lh.ht - rh.ht) <= 1;
-        sb.isbal = gap && lh.isbal && rh.isbal;
-        return sb;
+//         BalancePair lh = helper(root.left);
+//         BalancePair rh = helper(root.right);
+//         BalancePair sb = new BalancePair();
+//         sb.ht = Math.max(lh.ht,rh.ht)+1;
+//         boolean gap = Math.abs(lh.ht - rh.ht) <= 1;
+//         sb.isbal = gap && lh.isbal && rh.isbal;
+//         return sb;
+        
+        if(root  == null) return 0;
+        
+        int lh = helper(root.left);
+        int rh = helper(root.right);
+        
+        int th = Math.max(lh,rh)+1;
+        
+        int gap = Math.abs(lh - rh);
+        
+        if(gap > 1){
+            isbal = false;
+        }
+        
+        return th;
     }
     
     
     public boolean isBalanced(TreeNode root) {
-        
+        isbal = true;
         if(root == null) return true;
-        return helper(root).isbal;
-        
+        helper(root);
+        return isbal;
     }
 }
