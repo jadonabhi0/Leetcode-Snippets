@@ -17,26 +17,27 @@ class Solution {
     
     static class BalancePair{
         int ht = -1;
-        boolean isbal = true ;
-    }
-
-    private static BalancePair isBalance(TreeNode root){
-        if (root == null) return  new BalancePair();
-
-        BalancePair lbp = isBalance(root.left);
-        BalancePair rbp = isBalance(root.right);
-        BalancePair sbp = new BalancePair();
-        sbp.ht = Math.max(lbp.ht , rbp.ht) +1;
-        boolean sb = Math.abs(lbp.ht - rbp.ht) <= 1;
-        sbp.isbal = sb && lbp.isbal && rbp.isbal;
-        return sbp;
+        boolean isbal = true;
     }
     
+    
+    public BalancePair helper(TreeNode root){
+        if(root == null) return new BalancePair();
+        
+        BalancePair lh = helper(root.left);
+        BalancePair rh = helper(root.right);
+        BalancePair sb = new BalancePair();
+        sb.ht = Math.max(lh.ht,rh.ht)+1;
+        boolean gap = Math.abs(lh.ht - rh.ht) <= 1;
+        sb.isbal = gap && lh.isbal && rh.isbal;
+        return sb;
+    }
+    
+    
     public boolean isBalanced(TreeNode root) {
-        if(root == null)
-        {
-            return true;
-        }
-        return isBalance(root).isbal;
+        
+        if(root == null) return true;
+        return helper(root).isbal;
+        
     }
 }
