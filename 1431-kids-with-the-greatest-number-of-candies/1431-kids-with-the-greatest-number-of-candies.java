@@ -5,11 +5,7 @@ class Solution {
         for(int i : candies) if(max < i) max = i;
 
         for(int val : candies){
-            if(val + extraCandies >= max){
-                list.add(true);
-            }else{
-                list.add(false);
-            }
+            list.add(val + extraCandies >= max);
         }
            
         
