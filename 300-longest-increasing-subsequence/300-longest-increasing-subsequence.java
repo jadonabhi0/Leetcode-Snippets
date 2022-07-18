@@ -1,24 +1,22 @@
 class Solution {
+    
+    public static int helper_memo(int[] array, int prev, int curr, int[][] dp){
+        if (curr == array.length) return 0;
+        if (prev != -1 && dp[prev][curr] != 0) return dp[prev][curr];
+        int a = 0;
+        if(prev == -1 || array[prev] < array[curr]){
+            a = helper_memo(array, curr, curr+1, dp) + 1;
+        }
+        int b = helper_memo(array,prev,  curr+1, dp);
+
+        if (prev != -1){
+            dp[prev][curr] = Math.max(a, b);
+        }
+        return  Math.max(a, b);
+    }
+    
     public int lengthOfLIS(int[] nums) {
-        // i --> Leading Pointer
-        // j --> trailing Pointer
-        
-        if(nums.length ==0){
-            return 0;
-        }
-       int dp[] = new int[nums.length];    
-        dp[0] = 1;  //Bottom-up Approach
-        int ans = 1;
-        for(int i=1; i<dp.length; i++){ // Leading Pointer loop
-            int max = 0;
-            for(int j=0; j<i;j++){ // Trailing Pointer Loop
-                if(nums[i] > nums[j]){
-                    max = Math.max(max, dp[j]);
-                }
-            }
-            dp[i] = max+1;
-            ans = Math.max(ans,dp[i]);
-        }
-        return ans;
+        int[][] dp = new int[nums.length][nums.length];
+        return helper_memo(nums, -1, 00, dp);
     }
 }
