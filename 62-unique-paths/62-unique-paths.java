@@ -1,29 +1,23 @@
 class Solution {
-    
-     public static int unique(int i, int j, HashMap<String, Integer> map){
-        String key = i+"x"+j;
-        if(map.containsKey(key)){
-            return map.get(key);
-        } 
-        if (i < 0 || j < 0){
-            return 0;
-        }
-         else if (i == 0 && j == 0){
-             return 1;
-         }
-
-         else {
-             
-            int t = unique( i-1, j, map)+unique(i, j-1, map);
-             map.put(key,t);
-             return t;
-        }
-
-
-    }
-    
     public int uniquePaths(int m, int n) {
-        HashMap<String, Integer> map = new HashMap<>();
-        return unique(m-1, n-1, map);
+        if(m == 1 && n == 1) return 1;
+        
+        int[][] dp = new int[m][n];
+        
+        for(int i = 1 ; i < m ; i++){
+            dp[i][0] = 1;
+        }
+        
+        for(int i = 1 ; i < n ; i++){
+            dp[0][i] = 1;
+        }
+        
+        for(int i = 1 ; i < m ; i++){
+            for(int j = 1 ; j < n ; j++){
+                dp[i][j] = dp[i-1][j] + dp[i][j-1];
+            }
+        }
+        
+        return dp[m-1][n-1];
     }
 }
