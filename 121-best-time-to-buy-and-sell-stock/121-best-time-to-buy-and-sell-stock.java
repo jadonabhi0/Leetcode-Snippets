@@ -1,20 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
+        int minbuycost = Integer.MAX_VALUE;
+        int profit = 0;
+        int overalmaxprofit = 0;
         
-        int leastsofar = Integer.MAX_VALUE;
-        int overalprofit = 0;
-        int profitiftoday = 0;
-        
-        for(int i = 0 ; i < prices.length ; i ++){
-            if(prices[i] < leastsofar){
-                leastsofar = prices[i];
-;            }
-            
-            profitiftoday = prices[i] - leastsofar;
-            if(profitiftoday > overalprofit){
-                overalprofit = profitiftoday;
-            }
+        for(int i = 0 ; i < prices.length ; i++){
+            minbuycost = Math.min(minbuycost, prices[i]);
+            profit = prices[i] - minbuycost ;
+            overalmaxprofit = Math.max(overalmaxprofit, profit);
         }
-        return overalprofit;
+        return overalmaxprofit;
     }
 }
