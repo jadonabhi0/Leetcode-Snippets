@@ -1,23 +1,22 @@
 class Solution {
-    public boolean isAnagram(String r, String m) {
-        if(r.length() != m.length()) return false;
-        int[] array1 = new int [26];
-        for(int i = 0 ; i < r.length() ; i++){
-            array1[r.charAt(i)-'a']++;
+    public boolean isAnagram(String s, String t) {
+        if(s.length() != t.length()) return false;
+        
+        HashMap<Character, Integer> map = new HashMap<>();
+        
+        for(int i = 0 ; i < s.length() ; i++){
+            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
         }
-        int[] array2 = new int [26];
-        for(int i = 0 ; i < m.length() ; i++){
-            array2[m.charAt(i)-'a']++;
+        
+        for(int i = 0 ; i < t.length() ; i++){
+            map.put(t.charAt(i), map.getOrDefault(t.charAt(i), 0) - 1);
         }
-        int flag = 0;
-        for(int i = 0 ; i < r.length() ; i++){
-            if((array2[r.charAt(i)-'a'] -array1[r.charAt(i)-'a']) == 0){
-                flag += 1;
-            }
+        
+        for(int i = 0 ; i < s.length() ; i++){
+            if(map.get(s.charAt(i)) != 0) return false;
         }
-        if(flag == r.length()){
-            return true;
-        }
-        return false;
+        
+        return true;
+        
     }
 }
