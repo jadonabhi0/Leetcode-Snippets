@@ -3,14 +3,16 @@ class Solution {
         HashMap<Character, Character> map = new HashMap<>();
         if(s.length() != t.length()) return false;
         for(int i = 0 ; i < s.length() ; i++){
-           if(map.containsKey(s.charAt(i))){
-               if(map.get(s.charAt(i)) != t.charAt(i)) return false;
-           }
-            else {
-                if (map.containsValue(t.charAt(i)))
-                    return false;
-                map.put(s.charAt(i), t.charAt(i));
+            char c1 = s.charAt(i);
+            char c2 = t.charAt(i);
+            if(map.containsKey(c1)){
+                if(map.get(c1) != c2) return false;
             }
+            else{
+                if(map.containsValue(c2)) return false;
+                
+            }
+            map.put(c1, c2);
         }
         return true;
     }
