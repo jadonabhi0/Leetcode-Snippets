@@ -1,37 +1,24 @@
 class Solution {
-   public static List<List<Integer>> threeSum(int[] nums) {
+    List<List<Integer>> list = new LinkedList<>();
+    public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> ans = new LinkedList<>();
-        Set<List<Integer>> set = new HashSet<>();
-        List<Integer> list = new ArrayList<>();
-        if (nums.length < 3) {
-            return  ans;
-        }
-        for(int i = 0 ; i < nums.length-2 ; i++){
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            int low = i+1;
-            int high = nums.length-1;
-            int tar = -nums[i];
-            while(low < high){
-                if(nums[low] + nums[high] == tar){
-                    list.add(nums[i]);
-                    list.add(nums[low]);
-                    list.add(nums[high]);
-                    set.add(list);
-                    list = new ArrayList<>();
-                    while (low < high && nums[low+1] == nums[low]) low++;
-                    while (low < high && nums[high-1] == nums[high]) high--;
-                    low++;
-                    high--;
+        for(int i = 0 ; i < nums.length ; i++){
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+            int a = nums[i];
+            int left = i+1;
+            int right = nums.length-1 ;
+            while(left < right){
+                if(nums[left] + nums[right] == -a){
+                    list.add(Arrays.asList(a, nums[left], nums[right]));
+                    while(left < right && nums[left] == nums[left+1]) left++;
+                    while(left < right && nums[right] == nums[right-1]) right--;
+                    left++;
+                    right--;
                 }
-                else if(tar > nums[low]+nums[high]) low++;
-                else high--;
-            }
+                else if(nums[left] + nums[right] > -a) right--;
+                else if(nums[left] + nums[right] < -a) left++;
+            }    
         }
-
-        for(List<Integer> l : set){
-            ans.add(l);
-        }
-        return ans;
+        return list;
     }
 }
