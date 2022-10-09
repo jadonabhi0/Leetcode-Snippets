@@ -14,18 +14,15 @@
  * }
  */
 class Solution {
-    
-    public boolean isPresent(TreeNode root, int sum , Set<Integer> set){
-        if(root == null) return false;
-        if(isPresent(root.left,sum,set) == true) return true;
-        if(set.contains(sum-root.val)) return true;
-        set.add(root.val);
-        return isPresent(root.right,sum,set);
+     public boolean findTarget(TreeNode root, int k) {
+        HashSet<Integer> set = new HashSet<>();
+        return dfs(root, set, k);
     }
     
-    public boolean findTarget(TreeNode root, int k) {
-        Set<Integer> set = new HashSet<>();
-        boolean res = isPresent(root,k,set);
-        return res;
+    public boolean dfs(TreeNode root, HashSet<Integer> set, int k){
+        if(root == null)return false;
+        if(set.contains(k - root.val))return true;
+        set.add(root.val);
+        return dfs(root.left, set, k) || dfs(root.right, set, k);
     }
 }
