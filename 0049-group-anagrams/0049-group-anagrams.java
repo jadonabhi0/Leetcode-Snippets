@@ -5,6 +5,8 @@ class Solution {
             char[] ch = s.toCharArray();
             Arrays.sort(ch);
             String key = String.valueOf(ch);
+            
+            
             if(!map.containsKey(key)){
                 map.put(key, new ArrayList<>());
             }
