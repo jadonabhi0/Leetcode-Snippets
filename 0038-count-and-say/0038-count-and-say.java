@@ -17,6 +17,8 @@ class Solution {
                     count = 1;
                     
                 }
+                
+                
             }
             ch = res.charAt(res.length()-1);
             sb.append(count);
