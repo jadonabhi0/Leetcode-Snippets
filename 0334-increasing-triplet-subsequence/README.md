@@ -8,6 +8,7 @@
 <strong>Explanation:</strong> Any triplet where i &lt; j &lt; k is valid.
 </pre>
 
+
 <p><strong class="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> nums = [5,4,3,2,1]
