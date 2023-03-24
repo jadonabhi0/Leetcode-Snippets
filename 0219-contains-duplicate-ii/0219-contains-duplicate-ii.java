@@ -6,8 +6,7 @@ class Solution {
                 int n = map.get(nums[i]);
                 if(i-n < k) return true;
             }
-            map.put(nums[i],i+1);
-            
+            map.put(nums[i],i+1);   
         }
         return false;
     }
