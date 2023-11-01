@@ -9,6 +9,8 @@
 <strong>Output:</strong> true
 </pre>
 
+
+
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/12/20/ex2.jpg" style="width: 382px; height: 182px;">
 <pre><strong>Input:</strong> p = [1,2], q = [1,null,2]
