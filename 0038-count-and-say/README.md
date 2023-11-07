@@ -14,6 +14,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
 <pre><strong>Input:</strong> n = 1
 <strong>Output:</strong> "1"
 <strong>Explanation:</strong> This is the base case.
