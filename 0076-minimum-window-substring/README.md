@@ -5,7 +5,9 @@
 <p>A <strong>substring</strong> is a contiguous sequence of characters within the string.</p>
 
 <p>&nbsp;</p>
-	
+
+
+ 
 <p><strong class="example">Example 1:</strong></p>
 
 <pre><strong>Input:</strong> s = "ADOBECODEBANC", t = "ABC"
