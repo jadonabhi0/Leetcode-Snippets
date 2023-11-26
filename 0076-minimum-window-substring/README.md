@@ -6,9 +6,8 @@
 
 <p>&nbsp;</p>
 
-
- 
 <p><strong class="example">Example 1:</strong></p>
+
 
 <pre><strong>Input:</strong> s = "ADOBECODEBANC", t = "ABC"
 <strong>Output:</strong> "BANC"
