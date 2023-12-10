@@ -14,9 +14,6 @@
 <strong>Output:</strong> [["a"]]
 </pre>
 
-
-
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
