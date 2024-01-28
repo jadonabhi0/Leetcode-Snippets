@@ -7,7 +7,8 @@
 <strong>Output:</strong> true
 </pre>
 
-	
+
+ 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> nums = [1,0,1,1], k = 1
