@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1293-three-consecutive-odds) |
+## Math
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0897-prime-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
