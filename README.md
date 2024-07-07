@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0897-prime-palindrome) |
+| [1642-water-bottles](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2645-pass-the-pillow) |
 ## Number Theory
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
