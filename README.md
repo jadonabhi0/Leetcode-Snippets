@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1803-average-waiting-time) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2846-robot-collisions) |
