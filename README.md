@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
