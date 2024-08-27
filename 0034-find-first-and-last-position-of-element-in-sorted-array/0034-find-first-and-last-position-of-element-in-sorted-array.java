@@ -12,8 +12,6 @@ class Solution {
             else lo = mid + 1;
         }
 
-
-        
         lo = 0;
         hi = nums.length - 1;
         while(lo <= hi){
