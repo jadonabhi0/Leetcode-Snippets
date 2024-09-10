@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0897-prime-palindrome) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
