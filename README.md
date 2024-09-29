@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0906-walking-robot-simulation) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0859-design-circular-deque) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
