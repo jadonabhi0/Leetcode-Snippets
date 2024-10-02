@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1435-xor-queries-of-a-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
