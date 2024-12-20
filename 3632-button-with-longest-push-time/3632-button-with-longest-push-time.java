@@ -7,17 +7,12 @@ class Solution {
         
         for(int i = 1 ; i < events.length ; i++){
             int time = events[i][1] - events[i-1][1];
-
-            if(time > maxt){
+            if(time > maxt || (maxt == time && idx > events[i][0])){
                 maxt = time;
                 idx = events[i][0];
             }
-            else if(maxt == time && idx > events[i][0]){
-                idx = events[i][0];
-            }
-                    
+           
         }
-
         return idx;
         
     }
