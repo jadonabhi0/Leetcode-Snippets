@@ -1,17 +1,24 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        HashSet<Integer> set = new HashSet<>();
-        for(int i : nums){
-            if(i > 0){
-                max = Math.max(max, i);
-                set.add(i);
+        int n = nums.length;
+
+        for (int i = 0; i < n; i++) {
+            while (nums[i] > 0 && nums[i] <= n && nums[i] != nums[nums[i] - 1]) {
+                swap(nums, i, nums[i] - 1);
             }
         }
 
-        for(int i = 1 ; i <= max ; i++){
-            if(!set.contains(i)) return i;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
         }
-        return max == Integer.MIN_VALUE ? 1 : max+1;
+        return n + 1;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
