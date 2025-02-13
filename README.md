@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0859-design-circular-deque) |
