@@ -1,28 +1,33 @@
 class Solution {
     public String countAndSay(int n) {
-        String res = "11";
+
         if(n == 1) return "1";
-        // if(n == 2) return res;
+
+        String res = "11";
+
         for(int i = 3 ; i <= n ; i++){
+
             StringBuffer sb = new StringBuffer();
-            int count = 1;
+            int cnt = 1;
             char ch = ' ';
+
             for(int j = 0 ; j < res.length()-1 ; j++){
                 ch = res.charAt(j);
-                if(ch == res.charAt(j+1)){
-                    count++;
+                if(res.charAt(j+1) == ch){
+                    cnt++;
                 }else{
-                    sb.append(count);
+                    sb.append(cnt);
                     sb.append(ch);
-                    count = 1;
-                    
+                    cnt = 1;
                 }
             }
-            ch = res.charAt(res.length()-1);
-            sb.append(count);
+
+            ch = res.charAt(res.length()-1);    
+            sb.append(cnt);
             sb.append(ch);
+
             res = sb.toString();
-            
+
         }
         return res;
     }
