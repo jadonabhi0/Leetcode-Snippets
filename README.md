@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
