@@ -3,7 +3,7 @@ class Solution {
 
         double lo = 0, hi = 2*1e9;
 
-        for(int i = 0 ; i<60 ; i++){
+        while(hi - lo > 1e-5){
             double mid = (hi + lo) / 2.0;
 
             double diff = calcAreaDiff(squares, mid);
