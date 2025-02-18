@@ -1,22 +1,19 @@
 class Solution {
     public int[] assignElements(int[] groups, int[] elements) {
         int[] arr = new int[100000+1];
-        Set<Integer> set = new HashSet<>();
 
         Arrays.fill(arr, Integer.MAX_VALUE);
 
         for(int i = 0 ; i < elements.length ; i++){
             int n = elements[i];
 
-            if(set.contains(n)) continue;
+            if(arr[n] != Integer.MAX_VALUE) continue;
 
             for(int j = n ; j < arr.length ; j+=n){
                 if(arr[j] == Integer.MAX_VALUE){
                     arr[j] = i;
                 }
             }
-
-            set.add(n);
 
         }
 
