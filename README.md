@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3632-button-with-longest-push-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3632-button-with-longest-push-time) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3748-sort-matrix-by-diagonals) |
+| [3760-assign-elements-to-groups-with-constraints](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3760-assign-elements-to-groups-with-constraints](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Two Pointers
 |  |
 | ------- |
