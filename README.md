@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3632-button-with-longest-push-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3632-button-with-longest-push-time) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2411-spiral-matrix-iv) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Strongly Connected Component
 |  |
 | ------- |
