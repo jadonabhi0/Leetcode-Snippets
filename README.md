@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
