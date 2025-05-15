@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
