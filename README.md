@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Strongly Connected Component
 |  |
