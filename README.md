@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1511-count-number-of-teams) |
 ## Sliding Window
 |  |
@@ -499,11 +502,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
@@ -518,4 +523,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
