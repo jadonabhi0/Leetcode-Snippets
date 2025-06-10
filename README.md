@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0042-trapping-rain-water) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
 ## Prefix Sum
 |  |
