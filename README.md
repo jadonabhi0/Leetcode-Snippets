@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0650-2-keys-keyboard) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
 | ------- |
