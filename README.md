@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
