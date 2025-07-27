@@ -13,10 +13,7 @@ class Solution {
         lMax = Math.max(lMax, height[l]);
         rMax = Math.max(rMax, height[r]);
 
-        tWat += lMax < rMax ? 
-                lMax - height[l++] : // contribue water to next cell
-                rMax - height[r--]; // contribute water to next cell
-
+        tWat += lMax < rMax ? lMax - height[l++] : rMax - height[r--];
         }
 
        return tWat;
