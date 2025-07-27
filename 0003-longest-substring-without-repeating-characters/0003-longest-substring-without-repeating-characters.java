@@ -8,7 +8,7 @@ class Solution {
             char ch = s.charAt(j);
             if (!set.contains(ch)) {
                 set.add(ch);
-                ans = Math.max(ans, j - i + 1);
+                ans = Math.max(ans, set.size());
                 j++;
             } else {
                 set.remove(s.charAt(i));
