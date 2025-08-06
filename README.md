@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0040-combination-sum-ii) |
