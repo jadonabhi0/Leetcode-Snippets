@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0273-integer-to-english-words) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
