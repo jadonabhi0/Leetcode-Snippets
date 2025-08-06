@@ -1,38 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        generate(n, "", ans);
+        backtrack(n, 0, 0, "", ans);
         return ans;
     }
 
-
-    private void generate(int n, String ansSoFar, List<String> ansList){
-
-        if(n*2 == ansSoFar.length()){
-            if(isValidPair(ansSoFar)){
-                ansList.add(ansSoFar);
-            }
+    private void backtrack(int n, int open, int close, String current, List<String> ans) {
+        if (current.length() == n * 2) {
+            ans.add(current);
             return;
         }
 
-        generate(n, ansSoFar+"(", ansList);
-        generate(n, ansSoFar+")", ansList);
-
-    }
-
-    private boolean isValidPair(String str) {
-        int count = 0;
-
-        for (char ch : str.toCharArray()) {
-            if (ch == '(') {
-                count++;
-            } else if (ch == ')') {
-                count--;
-                if (count < 0) return false; // More closing than opening
-            }
+        if (open < n) {
+            backtrack(n, open + 1, close, current + "(", ans);
         }
 
-        return count == 0; // All opened are closed
+        if (close < open) {
+            backtrack(n, open, close + 1, current + ")", ans);
+        }
     }
-
 }
