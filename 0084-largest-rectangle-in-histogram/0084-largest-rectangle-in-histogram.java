@@ -16,7 +16,7 @@ class Solution {
             st.push(i);
         } 
 
-        st.clear();
+        st = new Stack<>();
 
         // find left smaller
 
