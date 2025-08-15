@@ -11,15 +11,8 @@ class Solution {
         st.push(n-1);
 
         for(int i = n-2 ; i >= 0 ; i--){
-            while(!st.isEmpty() && heights[i] <= heights[st.peek()]){
-                st.pop();
-            }
-
-            if(st.isEmpty()){
-                rs[i] = n;
-            }else{
-                rs[i] = st.peek();
-            }
+            while(!st.isEmpty() && heights[i] <= heights[st.peek()]) st.pop();
+            rs[i] = st.isEmpty() ? n : st.peek();
             st.push(i);
         } 
 
@@ -31,21 +24,10 @@ class Solution {
         st.push(0);
 
         for(int i = 1 ; i < n ; i++){
-            while(!st.isEmpty() && heights[i] <= heights[st.peek()]){
-                st.pop();
-            }
-
-            if(st.isEmpty()){
-                ls[i] = -1;
-            }else{
-                ls[i] = st.peek();
-            }
+            while(!st.isEmpty() && heights[i] <= heights[st.peek()]) st.pop();
+            ls[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         } 
-
-        System.out.println(Arrays.toString(ls));
-        System.out.println(Arrays.toString(rs));
-
         // cal area
 
         int maxA = 0;
