@@ -14,9 +14,9 @@ class Solution {
             }
 
             if(total <= h){
-                highS = mid;
+                highS = mid; // try smaller speed
             }else{
-                minS = mid + 1;
+                minS = mid + 1; // tneed fast speed
             }
 
         }
