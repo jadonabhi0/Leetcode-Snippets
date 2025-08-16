@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -570,10 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
