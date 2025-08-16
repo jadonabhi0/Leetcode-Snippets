@@ -14,15 +14,28 @@
  * }
  */
 class Solution {
+
+    class Pair{
+        int dia;
+        int ht;
+    }
+
+    private Pair getDia(TreeNode root){
+        if(root == null) return new Pair();
+
+        Pair lp = getDia(root.left);
+        Pair rp = getDia(root.right);
+
+        Pair mp = new Pair();
+        mp.ht = Math.max(lp.ht, rp.ht) + 1;
+
+        int throughRoot = lp.ht + rp.ht; // path through current root
+        mp.dia = Math.max(throughRoot, Math.max(lp.dia, rp.dia));
+
+        return mp;
+    }
+
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) return 0;
-        return Math.max(maxDepth(root.left) + maxDepth(root.right), Math.max(diameterOfBinaryTree(root.left), diameterOfBinaryTree(root.right)));
+        return getDia(root).dia;
     }
-
-
-    private int maxDepth(TreeNode root) {
-        if(root == null) return 0;
-        return Math.max(maxDepth(root.left)+1, maxDepth(root.right) + 1);
-    }
-
 }
