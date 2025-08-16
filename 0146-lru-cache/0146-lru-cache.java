@@ -75,18 +75,18 @@ class LRUCache {
     
     public void put(int key, int value) {
 
-        if(map.containsKey(key)){
-            deleteNode(map.get(key)); 
-            map.put(key, addFirst(new ListNode(key, value)));
+        if (map.containsKey(key)) {
+            ListNode node = map.get(key);
+            node.val = value;        // update value
+            deleteNode(node);
+            addFirst(node);          // move to front
             return;
-
         }
-
         if(map.size() == cap){
             ListNode lru = removeLRU();
             map.remove(lru.key);
         }
-        
+
         map.put(key, addFirst(new ListNode(key, value)));
 
     }
