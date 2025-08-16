@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1196-filling-bookcase-shelves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1240-stone-game-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0897-prime-palindrome) |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -636,4 +641,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
