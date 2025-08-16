@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0424-longest-repeating-character-replacement) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0725-split-linked-list-in-parts) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0155-min-stack) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Stack
 |  |
