@@ -15,30 +15,27 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-
         return levelOrder(root);        
     }
 
     public List<Integer> levelOrder(TreeNode root) {
 
             List<Integer> ans = new ArrayList<>();
-
             if (root == null) return ans;
-
             Queue<TreeNode> q = new LinkedList<>();
             q.add(root);
             while(!q.isEmpty()){
                 int size = q.size();
-                List<Integer> level = new ArrayList<>();
+                TreeNode last = null;
 
                 for(int i = 0 ; i < size ; i++){
                     TreeNode rm = q.poll();
-                    level.add(rm.val);
+                    last = rm;
                     if(rm.left != null) q.offer(rm.left);
                     if(rm.right != null) q.offer(rm.right);
                 }
 
-                ans.add(level.get(level.size() - 1));
+                ans.add(last.val);
 
             }
 
