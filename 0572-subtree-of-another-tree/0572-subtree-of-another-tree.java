@@ -27,7 +27,7 @@ class Solution {
         boolean l = isSubtree(root.left, subRoot);
         boolean r = isSubtree(root.right, subRoot);
 
-        if(l || r) return true;
+        // if(l || r) return true;
 
         return l || r;
         
