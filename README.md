@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -528,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
