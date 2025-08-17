@@ -10,7 +10,6 @@ class MedianFinder {
         if(lst.size() == 0) lst.add(num);
         else{
             for(i = 0 ; i < lst.size() && num > lst.get(i) ; i++);
-            if(i == -1) i = 0;
             lst.add(i, num);
         }
         
