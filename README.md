@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
+| [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
