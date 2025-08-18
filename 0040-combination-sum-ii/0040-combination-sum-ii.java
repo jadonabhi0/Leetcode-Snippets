@@ -1,41 +1,24 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
+        Arrays.sort(candidates); // sort to handle duplicates
         List<List<Integer>> ans = new ArrayList<>();
-        helper(candidates, target, 0, candidates.length, ans, new ArrayList<>());
+        backtrack(candidates, target, 0, new ArrayList<>(), ans);
         return ans;
     }
 
-
-    private void helper(int[] candidates, int target, int idx, int n, List<List<Integer>> ans, List<Integer> lst){
-
-
-        if(target == 0){
-            ans.add(new ArrayList(lst));
+    private void backtrack(int[] cand, int target, int start, List<Integer> curr, List<List<Integer>> ans) {
+        if (target == 0) {
+            ans.add(new ArrayList<>(curr));
             return;
         }
 
-        if(idx == n){
-            return;
+        for (int i = start; i < cand.length; i++) {
+            if (i > start && cand[i] == cand[i - 1]) continue; // skip duplicates at same depth
+            if (cand[i] > target) break; // pruning since array is sorted
+
+            curr.add(cand[i]);
+            backtrack(cand, target - cand[i], i + 1, curr, ans); // move to next index
+            curr.remove(curr.size() - 1);
         }
-
-        for(int i = idx ; i < n ; i++){
-
-            if(i > idx && candidates[i] == candidates[i-1]){
-                continue;
-            }
-
-            if(candidates[i] <= target) {
-                lst.add(candidates[i]);
-                helper(candidates, target-candidates[i], i+1, n, ans, lst);
-                lst.remove(lst.size()-1);
-            }else{
-                break;
-            }
-
-           
-        }
-    
-        return;
     }
 }
