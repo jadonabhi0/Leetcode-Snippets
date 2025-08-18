@@ -13,9 +13,11 @@ class Solution {
 
      if(idx == cand.length || target < 0) return ans;
 
-     lst.add(cand[idx]);
-     generate(cand, target - cand[idx], idx, lst, ans);
-     lst.remove(lst.size() - 1);
+    if(target >= cand[idx]){
+            lst.add(cand[idx]);
+            generate(cand, target-cand[idx], idx ,lst, ans);
+            lst.remove(lst.size()-1);
+        }
      generate(cand, target, idx + 1, lst, ans);
      
      return ans;   
