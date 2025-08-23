@@ -23,10 +23,7 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
                 if(at[i][j] && pt[i][j]){
-                    pair.add(i);
-                    pair.add(j);
-                    ans.add(new ArrayList<>(pair));
-                    pair.clear();
+                    ans.add(Arrays.asList(i, j));
                 }
             }
         }
