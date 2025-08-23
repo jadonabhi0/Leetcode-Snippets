@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
