@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
