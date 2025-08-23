@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
+| [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0493-reverse-pairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
+| [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
