@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0056-merge-intervals) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0138-copy-list-with-random-pointer) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0088-merge-sorted-array) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
