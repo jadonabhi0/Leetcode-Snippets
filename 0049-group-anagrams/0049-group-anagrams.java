@@ -12,8 +12,6 @@ class Solution {
             map.get(ana).add(s);
         }
 
-        List<List<String>> ans = new ArrayList<>();
-        for(List lst : map.values()) ans.add(lst);
-        return ans;
+        return new LinkedList<>(map.values());
     }
 }
