@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0199-binary-tree-right-side-view) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0138-copy-list-with-random-pointer) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
