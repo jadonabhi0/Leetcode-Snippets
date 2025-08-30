@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -740,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
