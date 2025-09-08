@@ -1,28 +1,29 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         Arrays.sort(nums);
-        return generate(nums, 0, new ArrayList<>(), new ArrayList<>(), new boolean[nums.length]);
+        return generate(nums, 0, new ArrayList<>());
     }
 
-    public List<List<Integer>> generate(int[] nums,int idx, List<List<Integer>> ans, List<Integer> lst, boolean[] vis) {
-        
+    public List<List<Integer>> generate(int[] nums,int idx, List<List<Integer>> ans) {
         if(idx == nums.length){
+            List<Integer> lst = new ArrayList<>();
+            for(int i : nums) lst.add(i);
             ans.add(new ArrayList<>(lst));
             return ans;
         }
-        
-        for(int i = 0 ; i < nums.length ; i++){
-            if(!vis[i]){
-                vis[i] = true;
-                lst.add(nums[i]);
-                generate(nums, idx + 1, ans, lst, vis);
-                lst.remove(lst.size() -1 );
-                vis[i] = false;
-            } 
-           
-        }
 
+        for(int i = idx ; i < nums.length ; i++){
+            swap(nums, idx, i);
+            generate(nums, idx+1, ans);
+            swap(nums, idx, i);
+        }
         return ans;
+    }
+
+    private void swap(int[] nums, int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 
 }
