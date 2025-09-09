@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1240-stone-game-ii) |
