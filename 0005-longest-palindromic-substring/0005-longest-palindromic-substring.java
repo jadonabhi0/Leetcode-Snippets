@@ -1,32 +1,39 @@
 class Solution {
-    int maxLen = 0;
-    int lo = 0;
-
-
-
     public String longestPalindrome(String s) {
-        char[] input = s.toCharArray();
-        if (s.length() < 2) {
-            return s;
+        int n = s.length();
+        Boolean[][] dp = new Boolean[n][n];
+
+        int start = 0;
+        int maxLen = 1;;
+
+        for(int i = 0 ; i < n ; i++){
+            for(int j = i ; j < n ; j++){
+                if(isPallindrome(s, i, j, dp)){
+                    if(j-i+1 > maxLen){
+                        start = i;
+                        maxLen = j-i+1;
+                    }
+                }
+            }
         }
 
-        for (int i = 0; i < input.length; i++) {
-            expandPalindrome(input, i, i);
-            expandPalindrome(input, i, i + 1);
-        }
-        return s.substring(lo, lo + maxLen);
+        return s.substring(start, start + maxLen);
+
     }
 
 
+    private boolean isPallindrome(String s, int i , int j, Boolean[][] dp){
+        if(j <= i) return true;
 
-    public void expandPalindrome(char[] s, int j, int k) {
-        while (j >= 0 && k < s.length && s[j] == s[k]) {
-            j--;
-            k++;
+        if(dp[i][j] != null) return dp[i][j];
+
+
+        if(s.charAt(i) == s.charAt(j)){
+            dp[i][j] = isPallindrome(s, i+1, j-1, dp);
+        }else{
+            dp[i][j] = false;
         }
-        if (maxLen < k - j - 1) {
-            maxLen = k - j - 1;
-            lo = j + 1;
-        }
+
+        return dp[i][j];
     }
 }
