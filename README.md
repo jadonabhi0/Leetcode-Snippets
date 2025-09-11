@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2494-sum-of-prefix-scores-of-strings) |
