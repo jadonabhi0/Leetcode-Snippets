@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1207-delete-nodes-and-return-forest) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
