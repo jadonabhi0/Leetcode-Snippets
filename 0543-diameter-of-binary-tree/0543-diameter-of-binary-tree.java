@@ -26,13 +26,11 @@ class Solution {
         Pair lp = getDia(root.left);
         Pair rp = getDia(root.right);
 
-        Pair mp = new Pair();
-        mp.ht = Math.max(lp.ht, rp.ht) + 1;
-
-        int throughRoot = lp.ht + rp.ht; // path through current root
-        mp.dia = Math.max(throughRoot, Math.max(lp.dia, rp.dia));
-
-        return mp;
+        Pair pair = new Pair();
+        int ht = lp.ht + rp.ht;
+        pair.dia = Math.max(ht, Math.max(lp.dia, rp.dia));
+        pair.ht = Math.max(lp.ht, rp.ht) + 1;
+        return pair;
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
