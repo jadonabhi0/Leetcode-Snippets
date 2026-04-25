@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
+| [0922-sort-array-by-parity-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0922-sort-array-by-parity-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0922-sort-array-by-parity-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0922-sort-array-by-parity-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0726-number-of-atoms) |
+| [0922-sort-array-by-parity-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0922-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
