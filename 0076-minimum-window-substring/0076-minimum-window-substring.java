@@ -1,66 +1,40 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        if (s.length() == 0 || t.length() == 0) {
-            return "";
-        }
+        if (s.length() < t.length()) return "";
 
-        Map<Character, Integer> dictT = new HashMap<Character, Integer>();
+        int[] freqT = new int[128];
+        int[] freqS = new int[128];
 
-        for (int i = 0; i < t.length(); i++) {
-            int count = dictT.getOrDefault(t.charAt(i), 0);
-            dictT.put(t.charAt(i), count + 1);
-        }
+        for (char ch : t.toCharArray()) freqT[ch]++;
 
-        int required = dictT.size();
+        int i = 0, have = 0, need = t.length();
+        int min = Integer.MAX_VALUE, start = 0;
 
-        // Filter all the characters from s into a new list along with their index.
-        // The filtering criteria is that the character should be present in t.
-        List<Pair<Integer, Character>> filteredS = new ArrayList<Pair<Integer, Character>>();
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (dictT.containsKey(c)) {
-                filteredS.add(new Pair<Integer, Character>(i, c));
-            }
-        }
+        for (int j = 0; j < s.length(); j++) {
+            char ch = s.charAt(j);
+            freqS[ch]++;
 
-        int l = 0, r = 0, formed = 0;
-        Map<Character, Integer> windowCounts = new HashMap<Character, Integer>();
-        int[] ans = { -1, 0, 0 };
-
-        // Look for the characters only in the filtered list instead of entire s.
-        // This helps to reduce our search.
-        // Hence, we follow the sliding window approach on as small list.
-        while (r < filteredS.size()) {
-            char c = filteredS.get(r).getValue();
-            int count = windowCounts.getOrDefault(c, 0);
-            windowCounts.put(c, count + 1);
-
-            if (dictT.containsKey(c) && windowCounts.get(c).intValue() == dictT.get(c).intValue()) {
-                formed++;
+            if (freqT[ch] > 0 && freqS[ch] <= freqT[ch]) {
+                have++;
             }
 
-            // Try and contract the window till the point where it ceases to be 'desirable'.
-            while (l <= r && formed == required) {
-                c = filteredS.get(l).getValue();
-
-                // Save the smallest window until now.
-                int end = filteredS.get(r).getKey();
-                int start = filteredS.get(l).getKey();
-                if (ans[0] == -1 || end - start + 1 < ans[0]) {
-                    ans[0] = end - start + 1;
-                    ans[1] = start;
-                    ans[2] = end;
+            // Shrink window
+            while (have == need) {
+                if (j - i + 1 < min) {
+                    min = j - i + 1;
+                    start = i;
                 }
 
-                windowCounts.put(c, windowCounts.get(c) - 1);
-                if (dictT.containsKey(c) && windowCounts.get(c).intValue() < dictT.get(c).intValue()) {
-                    formed--;
+                char fch = s.charAt(i);
+                freqS[fch]--;
+                if (freqT[fch] > 0 && freqS[fch] < freqT[fch]) {
+                    have--;
                 }
-                l++;
+                i++;
             }
-            r++;
         }
-        return ans[0] == -1 ? "" : s.substring(ans[1], ans[2] + 1);
+
+        return min == Integer.MAX_VALUE ? "" : s.substring(start, start + min);
     }
 }
