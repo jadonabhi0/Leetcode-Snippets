@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0128-longest-consecutive-sequence) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0567-permutation-in-string) |
