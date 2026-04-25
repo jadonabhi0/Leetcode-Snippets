@@ -20,7 +20,7 @@ class Solution {
             }
 
             // Shrink window
-            while (have == need) {
+            while (have >= need) {
                 if (j - i + 1 < min) {
                     min = j - i + 1;
                     start = i;
