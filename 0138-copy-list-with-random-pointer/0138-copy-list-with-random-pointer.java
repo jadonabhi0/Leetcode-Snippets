@@ -15,12 +15,15 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-
-        HashMap<Node, Node> map = new HashMap<>();
-        for(Node temp = head ;temp != null ; temp = temp.next) map.put(temp,new Node(temp.val));
-        for(Node temp = head ;temp != null ; temp = temp.next){
-            map.get(temp).next = map.getOrDefault(temp.next, null);
-            map.get(temp).random = map.getOrDefault(temp.random, null);
+        HashMap<Node,Node> map = new HashMap<>();
+        Node cur = head;
+        while(cur != null){
+            map.put(cur, new Node(cur.val));
+            cur = cur.next;
+        } 
+        for(Node node : map.keySet()){
+           map.get(node).next = map.get(node.next);
+           map.get(node).random = map.get(node.random);
         }
         return map.get(head);
     }
