@@ -10,12 +10,13 @@ class Solution {
 
             if(nums[mid] == target) return mid;
 
+            // left half part is sorted
             if(nums[lo] <= nums[mid]){
-                if(nums[lo] <= target && nums[mid] >= target) hi = mid - 1;
-                else lo = mid + 1;
-            }else if(nums[mid] <= nums[hi]){
-                if(nums[mid] <= target && nums[hi] >= target) lo = mid+1;
-                else hi = mid - 1;
+                if(nums[lo] <= target && target <= nums[mid]) hi = mid-1;
+                else lo = mid+1;
+            }else if(nums[mid] <= nums[hi]){ // right half part is sorted
+               if(target >= nums[mid] && target <= nums[hi]) lo = mid+1;
+               else hi = mid - 1;
             }
 
         }
