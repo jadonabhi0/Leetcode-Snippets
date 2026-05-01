@@ -1,89 +1,97 @@
+import java.util.*;
+
+class Tweet {
+    int time;
+    int tweetId;
+
+    Tweet(int tweetId, int time) {
+        this.tweetId = tweetId;
+        this.time = time;
+    }
+}
+
+class User {
+    int userId;
+    Set<Integer> followee;
+    List<Tweet> tweets;
+
+    User(int id) {
+        this.userId = id;
+        this.followee = new HashSet<>();
+        this.tweets = new ArrayList<>();
+        followee.add(id); // follow self
+    }
+
+    public void addPost(int tweetId, int time) {
+        tweets.add(new Tweet(tweetId, time));
+    }
+
+    public void follow(int followId) {
+        followee.add(followId);
+    }
+
+    public void unFollow(int followId) {
+        followee.remove(followId);
+    }
+}
+
 class Twitter {
 
-    class Tweet {
-        Integer tweetId;
-        Integer ts; // timestamp
-
-        public Tweet(Integer tweetId, Integer ts) {
-            this.tweetId = tweetId;
-            this.ts = ts;
-        }
-    }
-
-    class User {
-        int userId;
-        Set<Integer> followees; // store followee IDs
-        List<Tweet> tweets;
-
-        public User(int userId) {
-            this.userId = userId;
-            this.followees = new HashSet<>();
-            this.tweets = new LinkedList<>();
-        }
-
-        public void addTweet(Integer tweetId, int ts) {
-            this.tweets.add(0, new Tweet(tweetId, ts));
-        }
-
-        public void addFollowee(Integer followeeId) {
-            this.followees.add(followeeId);
-        }
-
-        public void removeFollowee(Integer followeeId) {
-            this.followees.remove(followeeId);
-        }
-    }
-
-    HashMap<Integer, User> umap;
-    int globalTime; // shared timestamp
+    int time = 0;
+    Map<Integer, User> users;
 
     public Twitter() {
-        umap = new HashMap<>();
-        globalTime = 0;
+        users = new HashMap<>();
+    }
+
+    private User addUser(int userId) {
+        users.putIfAbsent(userId, new User(userId));
+        return users.get(userId);
+    }
+
+    private User getUser(int userId) {
+        return users.get(userId);
     }
 
     public void postTweet(int userId, int tweetId) {
-        umap.putIfAbsent(userId, new User(userId));
-        globalTime++;
-        umap.get(userId).addTweet(tweetId, globalTime);
+        User u = addUser(userId);
+        u.addPost(tweetId, time++);
     }
 
     public List<Integer> getNewsFeed(int userId) {
-        if (!umap.containsKey(userId)) return new ArrayList<>();
+        User user = getUser(userId);
+        if (user == null) return new ArrayList<>();
 
-        PriorityQueue<Tweet> pq = new PriorityQueue<>((t1, t2) -> Integer.compare(t2.ts, t1.ts));
+        PriorityQueue<Tweet> pq =
+                new PriorityQueue<>((a, b) -> b.time - a.time);
 
-        User user = umap.get(userId);
-
-        // add own tweets
-        pq.addAll(user.tweets);
-
-        // add followees' tweets
-        for (Integer fid : user.followees) {
-            if (umap.containsKey(fid)) {
-                pq.addAll(umap.get(fid).tweets);
+        for (int followeeId : user.followee) {
+            User fUser = getUser(followeeId);
+            if (fUser != null) {
+                pq.addAll(fUser.tweets);
             }
         }
 
-        List<Integer> ans = new LinkedList<>();
-        int cnt = 0;
-        while (!pq.isEmpty() && cnt < 10) {
-            ans.add(pq.poll().tweetId);
-            cnt++;
+        List<Integer> feed = new ArrayList<>();
+        int count = 0;
+        while (!pq.isEmpty() && count < 10) {
+            feed.add(pq.poll().tweetId);
+            count++;
         }
 
-        return ans;
+        return feed;
     }
 
     public void follow(int followerId, int followeeId) {
-        if (followerId == followeeId) return; // cannot follow self
-        umap.putIfAbsent(followerId, new User(followerId));
-        umap.putIfAbsent(followeeId, new User(followeeId));
-        umap.get(followerId).addFollowee(followeeId);
+        User u = addUser(followerId);
+        addUser(followeeId);
+        u.follow(followeeId);
     }
 
     public void unfollow(int followerId, int followeeId) {
-        if (!umap.containsKey(followerId) || followerId == followeeId) return;
-        umap.get(followerId).removeFollowee(followeeId);
+        User u = getUser(followerId);
+        if (u != null && followerId != followeeId) {
+            u.unFollow(followeeId);
+        }
     }
 }
