@@ -20,28 +20,25 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
-        HashMap<Node, Node> map = addInMap(node, new HashMap<>());
-        
-        for(Node key : map.keySet()){
-            for(Node nbr : key.neighbors){
-                 map.get(key).neighbors.add(map.get(nbr));
+        if(node == null) return null;
+        HashMap<Node,Node> map = graphToMap(node,new HashMap<>());
+        for(Node n : map.keySet()){
+            for(Node nbr : n.neighbors){
+                map.get(n).neighbors.add(map.get(nbr));
             }
         }
         return map.get(node);
     }
 
-    private HashMap<Node, Node> addInMap(Node node,  HashMap<Node, Node> map){
-        if (node == null) return map;
-
+    private HashMap<Node,Node> graphToMap(Node node, HashMap<Node, Node> map){
         if(map.containsKey(node)) return map;
-
-        // put all old nodes (key) in map with newNode(value)
         map.put(node, new Node(node.val));
-
         for(Node nbr : node.neighbors){
-            addInMap(nbr, map);
-        } 
-
+            if(!map.containsKey(nbr)){
+                graphToMap(nbr,map);
+            }
+        }
         return map;
     }
+
 }
