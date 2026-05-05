@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1325-path-with-maximum-probability) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
@@ -847,4 +851,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
