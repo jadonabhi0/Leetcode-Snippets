@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1706-min-cost-to-connect-all-points) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0994-rotting-oranges) |
 | [0999-regions-cut-by-slashes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1036-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -704,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1325-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2803-modify-graph-edge-weights) |
@@ -846,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
