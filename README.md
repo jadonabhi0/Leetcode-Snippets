@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1923-sentence-similarity-iii) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
@@ -859,4 +861,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
