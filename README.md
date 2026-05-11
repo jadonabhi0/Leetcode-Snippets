@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0801-is-graph-bipartite) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0747-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0731-my-calendar-ii) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0921-spiral-matrix-iii) |
@@ -706,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -854,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
