@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0564-find-the-closest-palindrome) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0387-first-unique-character-in-a-string) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0539-minimum-time-difference) |
@@ -760,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1435-xor-queries-of-a-subarray) |
