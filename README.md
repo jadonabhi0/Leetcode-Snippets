@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2067-maximum-number-of-points-with-cost) |
