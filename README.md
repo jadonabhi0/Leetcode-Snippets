@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0198-house-robber) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
