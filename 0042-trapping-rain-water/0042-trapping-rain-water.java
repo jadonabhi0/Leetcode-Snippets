@@ -13,7 +13,12 @@ class Solution {
         lMax = Math.max(lMax, height[l]);
         rMax = Math.max(rMax, height[r]);
 
-        tWat += lMax < rMax ? lMax - height[l++] : rMax - height[r--];
+        if(lMax < rMax){
+            tWat += lMax - height[l++];
+        }else{
+            tWat += rMax - height[r--];
+        }
+
         }
 
        return tWat;
