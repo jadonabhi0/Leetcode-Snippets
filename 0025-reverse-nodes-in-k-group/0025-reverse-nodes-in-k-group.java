@@ -10,31 +10,40 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-       ListNode dummy = new ListNode(0);
+
+        ListNode dummy = new ListNode();
         dummy.next = head;
         ListNode pointer = dummy;
 
-        while(pointer != null){
-
-            // first check for the next K nodes
+        while(pointer != null){ 
+            // check k nodes ahead
             ListNode temp = pointer;
-            for(int i = 0 ; i < k && temp != null ; i++, temp = temp.next);
-            if(temp == null) break; // no more k nodes further            
-
-            // reverse k node
-            ListNode prev = null, curr = pointer.next, next = null, tail = pointer.next;
-            for(int i = 0 ; i < k ; i++){
-                next = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr = next;
+            for(int i = 0 ; i < k && temp != null ; i++, temp = temp.next){
+                if(temp.next == null) return dummy.next;
             }
-            tail = pointer.next;
-            pointer.next = prev;
-            tail.next = curr;
-            pointer = tail;
-        }        
+            ListNode saved = temp.next;
+            temp.next = null;
 
+            ListNode tail = pointer.next;
+            ListNode rHead = reverseLL(pointer.next);
+            pointer.next = rHead;
+            tail.next = saved;
+            pointer = tail;
+        }
         return dummy.next;
+        
     }
+
+
+    private ListNode reverseLL(ListNode node){
+        if(node == null || node.next == null){
+            return node;
+        }
+
+        ListNode newHead = reverseLL(node.next);
+        node.next.next = node;
+        node.next = null;
+        return newHead;
+    }
+
 }
