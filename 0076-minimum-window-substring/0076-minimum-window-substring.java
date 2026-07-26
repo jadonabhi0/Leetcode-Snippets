@@ -1,40 +1,57 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        if (s.length() < t.length()) return "";
+        if (t.length() > s.length()) return "";
 
-        int[] freqT = new int[128];
-        int[] freqS = new int[128];
+        int[] tFreq = new int[128];
+        int[] windowFreq = new int[128];
 
-        for (char ch : t.toCharArray()) freqT[ch]++;
+        // Frequency of characters required
+        for (char c : t.toCharArray()) {
+            tFreq[c]++;
+        }
 
-        int i = 0, have = 0, need = t.length();
-        int min = Integer.MAX_VALUE, start = 0;
+        int need = t.length();   // Total characters required
+        int have = 0;            // Characters currently matched
 
-        for (int j = 0; j < s.length(); j++) {
-            char ch = s.charAt(j);
-            freqS[ch]++;
+        int left = 0;
+        int minLen = Integer.MAX_VALUE;
+        int start = 0;
 
-            if (freqT[ch] > 0 && freqS[ch] <= freqT[ch]) {
+        for (int right = 0; right < s.length(); right++) {
+
+            char ch = s.charAt(right);
+            windowFreq[ch]++;
+
+            // If this character is useful and not exceeding required frequency
+            if (tFreq[ch] > 0 && windowFreq[ch] <= tFreq[ch]) {
                 have++;
             }
 
-            // Shrink window
-            while (have >= need) {
-                if (j - i + 1 < min) {
-                    min = j - i + 1;
-                    start = i;
+            // Window contains all required characters
+            while (have == need) {
+
+                // Update answer
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
                 }
 
-                char fch = s.charAt(i);
-                freqS[fch]--;
-                if (freqT[fch] > 0 && freqS[fch] < freqT[fch]) {
+                // Remove left character
+                char remove = s.charAt(left);
+                windowFreq[remove]--;
+
+                // If window becomes invalid
+                if (tFreq[remove] > 0 && windowFreq[remove] < tFreq[remove]) {
                     have--;
                 }
-                i++;
+
+                left++;
             }
         }
 
-        return min == Integer.MAX_VALUE ? "" : s.substring(start, start + min);
+        return minLen == Integer.MAX_VALUE
+                ? ""
+                : s.substring(start, start + minLen);
     }
 }
