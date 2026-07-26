@@ -1,40 +1,45 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        int n = nums.length;
+        int[] ans = new int[n - k + 1];
+        int[] nge = nge(nums);
 
-        if(k == 1) return nums;
+        int j = 0;
 
-        Stack<Integer> st = new Stack<Integer>();
+        for (int i = 0; i <= n - k; i++) {
+
+            if (j < i)
+                j = i;
+
+            while (nge[j] < i + k) {
+                j = nge[j];
+            }
+
+            ans[i] = nums[j];
+        }
+
+        return ans;
+    }
+
+    private int[] nge(int[] nums) {
+
         int n = nums.length;
         int[] nge = new int[n];
-        int[] ans = new int[n-k+1];
-
-        // Build the Next Greater Element index array
-        nge[n - 1] = n; // Important fix
+        Stack<Integer> st = new Stack<>();
         st.push(n - 1);
+        nge[n - 1] = n; // No greater element to the right
+
         for (int i = n - 2; i >= 0; i--) {
+
             while (!st.isEmpty() && nums[st.peek()] <= nums[i]) {
                 st.pop();
             }
 
-            nge[i] = st.isEmpty() ? n : st.peek(); // -1 if no greater element
+            nge[i] = st.isEmpty() ? n : st.peek();
+
             st.push(i);
         }
 
-
-        // making ans
-        int j = 0;
-        for(int i = 0 ; i <= n - k ; i++){
-            if(j < i){
-                j = i;
-            }
-
-            while(nge[j] < i+k){
-                    j = nge[j];
-            }
-            ans[i] = nums[j];
-            
-        }
-        return ans;
-
+        return nge;
     }
 }
