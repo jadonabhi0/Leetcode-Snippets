@@ -16,24 +16,41 @@
 class Solution {
 
     class Pair{
-        int dia;
         int ht;
+        int dia;
+
+        Pair(){}
+
+        Pair(int ht, int dia){
+            this.ht = ht;
+            this.dia = dia;
+        }
+
     }
 
-    private Pair getDia(TreeNode root){
-        if(root == null) return new Pair();
 
-        Pair lp = getDia(root.left);
-        Pair rp = getDia(root.right);
+    private Pair findDiameter(TreeNode root){
+        if(root == null) {
+            return new Pair(0, 0);
+            
+        }
+        Pair lp = findDiameter(root.left);
+        Pair rp = findDiameter(root.right);
 
-        Pair pair = new Pair();
-        int ht = lp.ht + rp.ht;
-        pair.dia = Math.max(ht, Math.max(lp.dia, rp.dia));
-        pair.ht = Math.max(lp.ht, rp.ht) + 1;
-        return pair;
+        Pair p = new Pair();
+        int maxHt = Math.max(lp.ht, rp.ht);
+        p.ht = maxHt+1;
+
+        int maxDia = Math.max(lp.ht+rp.ht, Math.max(lp.dia, rp.dia));
+        p.dia = maxDia;
+
+
+        return p;
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
-        return getDia(root).dia;
+
+        return findDiameter(root).dia;
+
     }
 }
