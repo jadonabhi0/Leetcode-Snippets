@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0078-subsets) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0621-task-scheduler) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0121-best-time-to-buy-and-sell-stock) |
