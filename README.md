@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0695-max-area-of-island) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0664-strange-printer) |
 | [0746-min-cost-climbing-stairs](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0746-min-cost-climbing-stairs) |
@@ -907,4 +910,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
