@@ -18,18 +18,16 @@ class Solution {
         return balanced(root) != -1;
     }
 
-
     private int balanced(TreeNode root) {
         
         if(root == null) return 0;
         int l = balanced(root.left);
         int r = balanced(root.right);
 
-        if(l == -1 || r == -1) return -1;
+        if(l== -1 || r == -1) return -1;
 
         if(Math.abs(l-r) > 1) return -1;
 
-        return Math.max(l , r) + 1;
-
+        return Math.max(l, r)+1;
     }
 }
