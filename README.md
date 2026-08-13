@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
+| [1791-find-center-of-star-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Binary Lifting
 |  |
