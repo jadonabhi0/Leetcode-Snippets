@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1971-find-if-path-exists-in-graph) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1971-find-if-path-exists-in-graph) |
 | [2035-count-sub-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jadonabhi0/Leetcode-Snippets/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
 | ------- |
